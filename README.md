@@ -15,14 +15,6 @@
 
 ![Test Results](screenshots/test-results.PNG)
 
-### Selenium Execution
-
-![Testing Screenshot](screenshots/testing-screenshot.png)
-
-### Selenium Workflow
-
-![Testing Screenshot 2](screenshots/testing-screenshot2.png)
-
 ### Failure Diagnostics
 
 ![Failure Diagnostics](screenshots/test_failure_diagnostics_esat.png)
