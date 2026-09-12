@@ -1,0 +1,54 @@
+# Python bytecode and caches
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Pytest
+.pytest_cache/
+.coverage
+.coverage.*
+htmlcov/
+
+# Virtual environments
+.venv/
+venv/
+env/
+ENV/
+.env
+.env.*
+
+# Python packaging / build artifacts
+build/
+dist/
+*.egg-info/
+.eggs/
+
+# IDE and editor files
+.vscode/*
+!.vscode/settings.json
+!.vscode/extensions.json
+.idea/
+*.swp
+*.swo
+
+# Operating system files
+.DS_Store
+Thumbs.db
+desktop.ini
+
+# Runtime logs and diagnostic artifacts
+logs/*
+!logs/.gitkeep
+
+# Generated application data
+data/output/*
+!data/output/.gitkeep
+
+# Selenium / browser temporary artifacts
+*.crdownload
+*.tmp
+
+# Local secrets and configuration
+*.local
+secrets/
+credentials/
